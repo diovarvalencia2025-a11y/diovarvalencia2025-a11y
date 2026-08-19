@@ -1,5 +1,8 @@
 <div align="center">
 
+  <!-- Header Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=180&section=header&text=Diovar%20Valencia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+
   <!-- Banner Animado con Efecto Máquina de Escribir -->
   <a href="https://github.com/diovarvalencia2025-a11y">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=%C2%A1Hola!+Soy+Diovar+%F0%9F%91%8B;Full-Stack+%26+AI+Developer+%F0%9F%A4%96;Automatizaci%C3%B3n+%26+Desarrollo+Web+%E2%9A%A1;Creando+soluciones+digitales+de+alto+impacto+%F0%9F%9A%80" alt="Typing SVG" />
@@ -9,7 +12,7 @@
     <b>Desarrollador de Software • Soluciones con Inteligencia Artificial • Automatización Web</b>
   </p>
 
-  <!-- Enlaces de Contacto y Redes -->
+  <!-- Enlaces de Contacto, Redes y Contador de Visitas -->
   <p align="center">
     <a href="mailto:diovarvalencia2025@gmail.com">
       <img src="https://img.shields.io/badge/Email-diovarvalencia2025@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -17,6 +20,7 @@
     <a href="https://github.com/diovarvalencia2025-a11y">
       <img src="https://img.shields.io/badge/GitHub-diovarvalencia2025--a11y-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=diovarvalencia2025-a11y&color=00d2ff&style=for-the-badge&label=VISITAS" alt="Visitas" />
   </p>
 
 </div>
@@ -64,22 +68,24 @@
 
 ---
 
-### 📊 Estadísticas de GitHub / GitHub Stats
+### 📊 Estadísticas y Actividad / GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=diovarvalencia2025-a11y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diovarvalencia2025-a11y&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=diovarvalencia2025-a11y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=diovarvalencia2025-a11y&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diovarvalencia2025-a11y&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=diovarvalencia2025-a11y&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Actividad de GitHub" />
 </div>
 
 ---
 
 <div align="center">
+  <!-- Footer Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,2,0&height=100&section=footer" width="100%" alt="Footer Banner" />
   <p>⭐ <i>"El código bien diseñado es arte en movimiento."</i> ⭐</p>
-  <sub>© 2026 Diovar • Creado con pasión y dedicación.</sub>
+  <sub>© 2026 Diovar • Desarrollador & Creador Digital</sub>
 </div>
